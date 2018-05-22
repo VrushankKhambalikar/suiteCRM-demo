@@ -1,5 +1,5 @@
 <?php
-// created: 2018-05-22 05:22:36
+// created: 2018-05-22 05:47:04
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -37,4 +37,5 @@ $mod_strings = array (
   'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activities',
   'LBL_A123_DEMOMODULE_SUBPANEL_TITLE' => 'Demo Module',
   'LBL_NEW_FORM_TITLE' => 'New Demo Module',
+  'LBL_A123_DEMOMODULE_USERS_FROM_USERS_TITLE' => 'Users',
 );

@@ -835,6 +835,17 @@
       'type' => 'enum',
       'options' => 'user_factor_auth_interface_dom',
     ),
+    'a123_demomodule_users' => 
+    array (
+      'name' => 'a123_demomodule_users',
+      'type' => 'link',
+      'relationship' => 'a123_demomodule_users',
+      'source' => 'non-db',
+      'module' => 'a123_demoModule',
+      'bean_name' => 'a123_demoModule',
+      'side' => 'right',
+      'vname' => 'LBL_A123_DEMOMODULE_USERS_FROM_A123_DEMOMODULE_TITLE',
+    ),
   ),
   'indices' => 
   array (

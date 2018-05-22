@@ -1,5 +1,5 @@
 <?php
-// created: 2018-05-22 05:22:42
+// created: 2018-05-22 05:47:10
 $dashletsFiles = array (
   'a123_demoModuleDashlet' => 
   array (

@@ -1,5 +1,5 @@
 <?php
-// created: 2018-05-21 21:48:02
+// created: 2018-05-22 05:46:04
 $mod_strings = array (
   'ERR_NO_2FACTOR_EMAIL_TMPL' => 'Two-factor email template is not set, please change settings on password management page.',
   'ERR_NO_2FACTOR_EMAIL_TMPL_CODE' => 'Two-factor email template should contain a $code at least.',
@@ -623,4 +623,5 @@ If you are not setting up Inbound Email, please clear all fields in that section
   'ERR_USER_FACTOR_SMTP_REQUIRED' => 'SMTP server settings required first.',
   'ERR_USER_FACTOR_CHANGE_DISABLED' => 'Current user is not able to change two factor authentication settings.',
   'LNK_IMPORT_CAMPAIGNS' => 'Import Campaign',
+  'LBL_A123_DEMOMODULE_USERS_FROM_A123_DEMOMODULE_TITLE' => 'Demo Module',
 );
